@@ -6,7 +6,7 @@
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos Made</h2>
 
 - [Python Basic Tutorial]([https://www.youtube.com/watch?v=a83ASGn_V_s](https://youtube.com/playlist?list=PLcva2cpzyN6oLlEW1_BbU9YuOPsun10zU))
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
