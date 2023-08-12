@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steven! <br/><a href="https://github.com/Steven1799/">Programmer</a>, <a href="https://www.linkedin.com/in/steven-lim-20010b221">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@Algo_Garden">YouTuber</a></h1>
+![image](https://github.com/Steven1799/Steven1799/assets/65691091/cb436108-c583-4a62-8edf-d3981f6c39c1)<h1>Hi, I'm Steven! <br/><a href="https://github.com/Steven1799/">Programmer</a>, <a href="https://www.linkedin.com/in/steven-lim-20010b221">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@Algo_Garden">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
@@ -13,6 +13,10 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2>📃 Certifications</h2>
+
+- [AWS CloudPractitioner CLF-C01](https://www.credly.com/badges/176fcb8b-544a-47cf-8f0a-899db6ad0a69/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
