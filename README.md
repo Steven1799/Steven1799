@@ -6,6 +6,11 @@
   - [Network_Tracking_Wireshark](https://github.com/Steven1799/Network_Tracking_Wireshark)
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
+<h2>🚩 Cybersecurity CTF Writeups</h2>
+- [Pico CTF] (https://github.com/Steven1799/Network_Tracking_Wireshark)
+
+<h2>💻 Cybersecurity HackTheBox & TryHackMe Writeups</h2>
+- [Pico CTF] (https://github.com/Steven1799/Network_Tracking_Wireshark)
 
 <h2>📺 YouTube Videos Made</h2>
 
