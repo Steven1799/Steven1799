@@ -1,4 +1,4 @@
-![image]()<h1>Hi, I'm Steven! <br/><a href="https://github.com/Steven1799/">Programmer</a>, <a href="https://www.linkedin.com/in/steven-lim-20010b221">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@Algo_Garden">YouTuber</a></h1>
+<h1>Hi, I'm Steven! <br/><a href="https://github.com/Steven1799/">Programmer</a>, <a href="https://www.linkedin.com/in/steven-lim-20010b221">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@Algo_Garden">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
